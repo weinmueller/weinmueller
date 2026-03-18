@@ -56,17 +56,6 @@ My academic work focused on **isogeometric analysis** over multi-patch domains �
 - 📄 *An approximate C¹ multi-patch space for isogeometric analysis with a comparison to Nitsche's method* — [arXiv:2202.04516](https://arxiv.org/abs/2202.04516)
 - 🧩 Contributed to [G+Smo](https://github.com/gismo/gismo), an open-source C++ library for isogeometric analysis
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascal-weinmueller&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-weinmueller&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
